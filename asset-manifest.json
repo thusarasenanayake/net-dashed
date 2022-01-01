@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/static/js/main.0f58c79c.chunk.js",
+    "main.js.map": "/static/js/main.0f58c79c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.01acb666.js",
+    "runtime-main.js.map": "/static/js/runtime-main.01acb666.js.map",
+    "static/js/2.5fc2ae2a.chunk.js": "/static/js/2.5fc2ae2a.chunk.js",
+    "static/js/2.5fc2ae2a.chunk.js.map": "/static/js/2.5fc2ae2a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.5fc2ae2a.chunk.js.LICENSE.txt": "/static/js/2.5fc2ae2a.chunk.js.LICENSE.txt",
+    "static/media/Clear.721b28ec.jpg": "/static/media/Clear.721b28ec.jpg",
+    "static/media/Clouds.269cc19b.jpg": "/static/media/Clouds.269cc19b.jpg",
+    "static/media/Default.06dd502f.jpg": "/static/media/Default.06dd502f.jpg",
+    "static/media/Rain.d10579b5.jpg": "/static/media/Rain.d10579b5.jpg",
+    "static/media/Snow.bc7515bc.jpg": "/static/media/Snow.bc7515bc.jpg",
+    "static/media/bg.7e3f72b9.jpg": "/static/media/bg.7e3f72b9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01acb666.js",
+    "static/js/2.5fc2ae2a.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.0f58c79c.chunk.js"
+  ]
+}
