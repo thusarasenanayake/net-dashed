@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/net-dashed/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/net-dashed/static/js/main.64ad7cb7.chunk.js",
-    "main.js.map": "/net-dashed/static/js/main.64ad7cb7.chunk.js.map",
+    "main.js": "/net-dashed/static/js/main.4503a8ec.chunk.js",
+    "main.js.map": "/net-dashed/static/js/main.4503a8ec.chunk.js.map",
     "runtime-main.js": "/net-dashed/static/js/runtime-main.b90b7777.js",
     "runtime-main.js.map": "/net-dashed/static/js/runtime-main.b90b7777.js.map",
-    "static/js/2.d44dc290.chunk.js": "/net-dashed/static/js/2.d44dc290.chunk.js",
-    "static/js/2.d44dc290.chunk.js.map": "/net-dashed/static/js/2.d44dc290.chunk.js.map",
+    "static/js/2.f68a936e.chunk.js": "/net-dashed/static/js/2.f68a936e.chunk.js",
+    "static/js/2.f68a936e.chunk.js.map": "/net-dashed/static/js/2.f68a936e.chunk.js.map",
     "index.html": "/net-dashed/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/net-dashed/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.d44dc290.chunk.js.LICENSE.txt": "/net-dashed/static/js/2.d44dc290.chunk.js.LICENSE.txt",
+    "static/js/2.f68a936e.chunk.js.LICENSE.txt": "/net-dashed/static/js/2.f68a936e.chunk.js.LICENSE.txt",
     "static/media/Clear.721b28ec.jpg": "/net-dashed/static/media/Clear.721b28ec.jpg",
     "static/media/Clouds.269cc19b.jpg": "/net-dashed/static/media/Clouds.269cc19b.jpg",
     "static/media/Default.06dd502f.jpg": "/net-dashed/static/media/Default.06dd502f.jpg",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b90b7777.js",
-    "static/js/2.d44dc290.chunk.js",
+    "static/js/2.f68a936e.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.64ad7cb7.chunk.js"
+    "static/js/main.4503a8ec.chunk.js"
   ]
 }
