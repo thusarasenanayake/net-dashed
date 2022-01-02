@@ -30,7 +30,7 @@ function SignIn(props) {
 
   const resetPassword = () => {
     const actionCodeSettings = {
-      url: process.env.REACT_APP_API_DOMAIN,
+      url: process.env.REACT_APP_DOMAIN,
     };
 
     setLoading(true);
